@@ -16,7 +16,7 @@ import logoUrl from "./assets/laundry-lady-logo.png";
 import g1 from "./assets/gallery/1.jpg";
 import g2 from "./assets/gallery/2.jpg";
 import g3 from "./assets/gallery/3.jpg";
-import g4 from "./assets/gallery/4.webp";
+// import g4 from "./assets/gallery/4.webp";
 
 const gallery = [g1, g2, g3].filter(Boolean);
 
